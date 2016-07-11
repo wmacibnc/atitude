@@ -1,0 +1,20 @@
+/* ------------------------------
+
+    CONTADOR
+
+------------------------------ */
+
+.ccounter {
+	margin:auto;
+	padding: 0px;
+	width: 100%;
+	font-weight: bold;
+	color: #a5a5a5;
+}
+
+.texto {
+	float:left;
+	margin-left: -30px;
+	margin-right: 10px;
+	color:#FFF;
+}
